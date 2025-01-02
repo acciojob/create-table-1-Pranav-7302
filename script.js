@@ -10,7 +10,7 @@ let cell1 = newRow.insertCell(0);
 let cell2 = newRow.insertCell(1);
 
 // Add content to the new cells
-cell1.innerHTML = "New Cell 1";
-cell2.innerHTML = "New Cell 2";
+cell1.innerHTML = "New Cell1";
+cell2.innerHTML = "New Cell2";
 
 }
